@@ -25,7 +25,7 @@ if (isNaN(guessNumber)) {
 
 // Exercise 2
 
-var birthMonth = window.prompt("What is your birth month? If you are in the Northern Hemisphere, I will tell you the correct corresponding season.")
+var birthMonth = window.prompt("What is your birth month? If you are in the Northern Hemisphere, I will tell you what season you were born in.")
 
 switch (birthMonth) {
   case "December": 
